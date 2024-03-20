@@ -1,0 +1,36 @@
+{
+  "name": "cry-zenith-uploader",
+  "version": "1.0.0",
+  "description": "Upload and manage encrypted data with secure uploader, protecting sensitive information.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiskate0b/cry-zenith-uploader"
+  },
+  "author": "chiskate0b",
+  "license": "MIT",
+  "dependencies": {
+    "cry-zenith-utils": "1.0.0",
+    "cry-zenith-uploader": "1.0.0",
+    "truffle": "1.0.0",
+    "jest": "1.0.0",
+    "cors": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "mysql": "1.0.0",
+    "web3-utils": "1.0.0",
+    "solc": "1.0.0",
+    "bluebird": "1.0.0",
+    "axios": "1.0.0",
+    "chalk": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "cheerio": "1.0.0",
+    "moment": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "react": "1.0.0",
+    "async": "1.0.0",
+    "enzyme": "1.0.0"
+  }
+}
